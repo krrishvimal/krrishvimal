@@ -2,7 +2,7 @@
 
 ### AI-Native Product Builder & Full-Stack Engineer
 
-I build and ship 0-to-1 consumer web & mobile products. I combine modern AI workflows (**Claude Code**, automated agents) with solid engineering fundamentals (**Next.js**, **React 19**, **Supabase**, **TypeScript**) to take ideas from rough concepts to production in hours.
+I build and ship 0-to-1 consumer web & mobile products. I combine modern AI workflows (**Claude Code**,**Antigravuty** or other automated agents) with solid engineering fundamentals (**Next.js**, **React 19**, **Supabase**, **TypeScript**) to take ideas from rough concepts to production in hours.
 
 📍 **Based in New Delhi, India** · Final-Year B.Tech @ Netaji Subhas University of Technology (NSUT)  
 📫 **Reach me:** [krrishvimal23@gmail.com](mailto:krrishvimal23@gmail.com) · [LinkedIn](https://linkedin.com/in/krrish-vimal) · [GitHub](https://github.com/krrishvimal)
