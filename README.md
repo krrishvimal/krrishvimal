@@ -13,7 +13,7 @@ I turn zero-to-one concepts into production-grade consumer software at **5x–10
 
 - 🚀 **10+ production web apps & client platforms shipped**
 - ⚡ **Specialized in:** High-empathy consumer social, gesture physics (60–120 FPS), real-time WebSocket systems, and agentic workflows
-- 📍 **Availability:** Delhi WFO & Worldwide Remote (Product Engineer / AI Engineer / Founding Builder)
+- 📍 **Availability:** Delhi WFO & Worldwide Remote (Product Engineer / AI Engineer / Founding Builder / Frontend Developer / Full Stack Developer)
 
 ---
 
