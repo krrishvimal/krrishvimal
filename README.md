@@ -21,9 +21,9 @@ I focus on understanding user behavior, diagnosing where people drop off in digi
 ### [Funnel Doctor AI](https://funneldoctorai.vercel.app/)
 > **Checkout diagnostics prototype for D2C storefronts** · [Live Demo / Sample Report ↗](https://funneldoctorai.vercel.app/)
 
-- **What I Built:** A checkout diagnostics prototype for direct-to-consumer (D2C) brands to help teams investigate where shoppers drop off during checkout. It integrates Google Gemini to review mobile screenshots and page structure for possible causes of friction.
-- **Statistical Evaluation:** Ran 1,000 simulated A/A tests to measure how often the analysis flagged a difference between groups with the same underlying conversion rate. It applies the Benjamini–Hochberg procedure to address false discoveries across multiple comparisons.
-- *Data Clarification:* In the live prototype, Razorpay metrics reflect test-mode results, and sample dashboard figures are illustrative. *(Source repository remains private).*
+- **What I Built:** A checkout diagnostics prototype for direct to consumer (D2C) brands to help teams investigate where shoppers drop off during checkout. It integrates Google Gemini to review mobile screenshots and page structure for possible causes of friction.
+- **Statistical Evaluation:** Ran 1,000 simulated A/A tests to measure how often the analysis flagged a difference between groups with the same underlying conversion rate. It applies the Benjamini-Hochberg procedure to address false discoveries across multiple comparisons.
+- **Data Clarification:** In the live prototype, Razorpay metrics reflect test mode results, and sample dashboard figures are illustrative. Source repository is private.
 
 ---
 
@@ -60,7 +60,7 @@ I focus on understanding user behavior, diagnosing where people drop off in digi
 | Domain | Core Areas of Focus |
 | :--- | :--- |
 | **Product Discovery & Strategy** | Product requirements (PRDs), user journeys, feature scoping, usability testing, and qualitative feedback collection. |
-| **Analytics & Experimentation** | Funnel drop-off diagnosis, hypothesis formulation, A/A and A/B test design, Benjamini–Hochberg multiple comparison controls, and basic SQL (PostgreSQL). |
+| **Analytics & Experimentation** | Funnel drop-off diagnosis, hypothesis formulation, A/A and A/B test design, Benjamini-Hochberg multiple comparison controls, and basic SQL (PostgreSQL). |
 | **AI Product Integration** | Gemini integration for screenshot and page analysis, prompt evaluation, and schema guardrails. |
 | **Rapid Prototyping** | Functional 0-to-1 web prototyping (Next.js, React, Tailwind CSS), WhatsApp inquiry flows, and guest onboarding ergonomics. |
 
@@ -69,7 +69,7 @@ I focus on understanding user behavior, diagnosing where people drop off in digi
 ## 🎯 How I Approach Product Roles
 
 1. **Investigate Friction Before Adding Features:** Funnel data shows where users leave. Looking at the interface helps me form hypotheses about why.
-2. **Respect Statistical Baselines:** When evaluating user flows, I account for sample variation and multiple comparison corrections rather than claiming false-positive "wins."
+2. **Respect Statistical Baselines:** When evaluating user flows, I account for sample variation and multiple comparison corrections rather than claiming false positive wins.
 3. **Prototype to Validate Hypotheses:** Rather than relying solely on slide decks, I build functional prototypes to put working interfaces in front of users early.
 
 ---
