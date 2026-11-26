@@ -1,4 +1,4 @@
-# Krrish Vimal
+# Hi, I'm Krrish Vimal 👋
 
 <p align="center">
   <strong>Final-Year B.Tech Student at Netaji Subhas University of Technology (NSUT), Delhi · Class of 2027</strong><br>
