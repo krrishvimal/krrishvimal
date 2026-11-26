@@ -38,8 +38,8 @@ I focus on understanding user behavior, diagnosing where people drop off in digi
 ### [secRid (Sanctuary)](https://sec-rid.vercel.app/)
 > **Mobile gesture-driven anonymous reflection app** · [Live App ↗](https://sec-rid.vercel.app/) · [Repository ↗](https://github.com/krrishvimal/secRid)
 
-- **What I Built:** A mobile-first anonymous confession web app built around one post at a time with swipe navigation.
-- **Product Hypothesis:** It tests the hypothesis that focused, single-card viewing improves reading comprehension and reflection compared to an infinite scroll feed. Offers guest access without account creation.
+- **What I Built:** A mobile-first anonymous confession web app using swipe navigation (one post at a time) to encourage deeper reflection over infinite scrolling.
+- **User Experience:** Allows immediate access without account creation.
 
 ---
 
