@@ -28,7 +28,7 @@ I focus on understanding user behavior, diagnosing where people drop off in digi
 ---
 
 ### [The Unsaid Desk](https://the-unsaid-desk.vercel.app/)
-> **Anonymous letter-sharing platform with real-time community sync** · [Live App ↗](https://the-unsaid-desk.vercel.app/) · [Repository ↗](https://github.com/krrishvimal/dear-stranger)
+> **Anonymous letter-sharing platform with real-time community sync** · [Live App ↗](https://the-unsaid-desk.vercel.app/) · [Repository ↗](https://github.com/krrishvimal/the-unsaid-desk)
 
 - **What I Built:** I built an anonymous letter-sharing app with a typewriter-style writing flow and a shared wall that updates in real time.
 - **User Experience:** Visitors compose letters using an interactive typewriter interface with tactile mechanical audio feedback, submitting them to a public wall. New notes and reader reactions sync across active screens without page refreshes, and users can participate immediately without account creation.
